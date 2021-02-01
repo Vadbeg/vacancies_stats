@@ -105,6 +105,3 @@ venv.bak/
 .build/
 .dist/
 .news_feed.egg-info/
-
-# data
-data/
